@@ -1,0 +1,176 @@
+ @media (max-width: 1200px) {
+	.header .navbar-brand{
+		font-size: 30px;
+	}
+ }
+ @media (max-width: 992px) {
+	 
+	/* slider start hear*/
+	.slider .row{
+		padding-top: 100px;
+	}
+	.slider h1{
+		font-size: 40px;
+  	}
+	.slider .btn{
+		font-size: 18px;
+		border: 1px solid #fff;
+		margin-bottom: 0px;
+	}	
+	/* block1 start hear*/
+	.block1{
+		margin-top: 0;
+	}
+	.bottom h4{
+		font-size: 20px;
+	}
+	.bottom p{
+		padding:  0px;
+	}
+	/* from section */
+	.from h2{
+		font-size: 35px;
+		text-align: center;
+	}
+	.from h3{
+		text-align: center;
+	}
+ }
+ 
+@media (max-width: 768px) {
+	.slider h1{
+		font-size: 30px;
+  	}
+	.news i{
+ 		font-size: 35px;
+		height: 75px;
+		width: 75px;
+  	}
+	.news h4{
+ 		font-size: 22px;
+	}
+	.bottom .box{
+		padding: 10px 0;
+	}
+ }
+ 
+@media (max-width: 576px) {
+	.block1 .text{
+		padding: 20px 0;
+		text-align: center;
+	}
+	.block1 .media{
+		display: unset;
+	}
+	.about h2{
+		font-size: 22px;
+		font-weight: 600;
+	}
+	.mobile h2{
+		font-size: 25px;
+		margin-bottom: 20px;
+	}
+	.mobile h3{
+		font-size: 20px;
+	}
+	.mobile .mobile-info .m-icon{
+		text-align: center;
+	}
+	.mobile .mobile-info .m-icon-1{
+		padding-right: 0px;
+	}
+	.mobile .bt-4{
+		background: #fff;
+		margin-top: -400px;
+	}
+	.mobile .btn{
+		margin-top: 0;
+	}
+	.bottom h2{
+		font-size: 25px;
+	}
+	.info h2{
+		font-size: 25px;
+	}
+	.from h2{
+		font-size: 25px;
+	}
+	.news h2{
+		font-size: 25px;
+	}
+	.news h4{
+		font-size: 22px;
+	}
+	.photos h2{
+		font-size: 25px;
+	}
+	.photos h3{
+		font-size: 22px;
+	}
+	.footer .logo .text-white{
+		font-size: 25px;
+	}
+	.footer h3{
+		font-size: 22px;
+		font-weight: 700;
+	}
+	.about1 h3{
+		font-size: 25px;
+	}
+	.services1 h2{
+		font-size: 25px;
+	}
+	.services1 h3{
+		font-size: 22px;
+	}
+	.services1 .media{
+		display: unset;
+		padding: 0;
+	}
+	.team h2{
+		font-size: 25px;
+	}
+	.about2 h2{
+		font-size: 25px;
+		line-height: 40px;
+	}
+	.about2 h3{
+		font-size: 22px;
+	}
+	.features h2{
+		font-size: 25px;
+	}
+	.features .btn{
+		margin-top: 1rem;
+	}
+	.features i{
+		font-size: 30px;
+	}
+	.features h3{
+		font-size: 22px;
+	}
+	.services2 h2{
+		font-size: 25px;
+		padding-bottom: 30px;
+	}
+	.services2 h3{
+		font-size: 22px;
+	}
+	.mobile1 h2{
+		font-size: 25px;
+	}
+	.mobile1 .call{
+		font-size: 22px;
+	}
+	.contact h2{
+		font-size: 25px;
+	}
+	.contact h3{
+		font-size: 22px;
+	}
+ }
+ 
+ 
+ 
+ 
+ 
